@@ -2,7 +2,7 @@
 
 ## Description
 
-L'application **HelloToast** vise à illustrer des concepts de base du développement Android en Java. Elle utilise à la fois un **LinearLayout** et un **ConstraintLayout** pour organiser l'interface utilisateur et gérer les interactions de manière flexible et responsive. 
+L'application **HelloToast** vise à illustrer des concepts de base du développement Android en Java. Elle utilise un **ConstraintLayout** pour organiser l'interface utilisateur et gérer les interactions de manière flexible et responsive. 
 
 ## Fonctionnalités Principales
 
