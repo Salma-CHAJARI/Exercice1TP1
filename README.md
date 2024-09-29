@@ -49,3 +49,7 @@ L'objectif de ce projet est de savoir comment utiliser **ConstraintLayout** et d
 ## *Auteur*
 
 Développé par *CHAJARI Salma* dans le cadre d'un exercice de développement d'applications Android.
+## *Licence*
+
+Ce projet est sous licence *MIT*. Voir le fichier LICENSE pour plus de détails.
+
