@@ -25,15 +25,27 @@ Le **ConstraintLayout** est utilisé dans cette application pour :
 
 ## Objectif
 
-L'objectif de ce projet est de savoir comment utiliser à la fois **ConstraintLayout** et **LinearLayout**, et de se familiariser avec **Android Studio**.
+L'objectif de ce projet est de savoir comment utiliser **ConstraintLayout** et de se familiariser avec **Android Studio**.
 
 ## Prérequis
 
 - Android Studio
 - Java Development Kit (JDK)
+- Fichiers XML nécessaires pour la mise en page, incluant :
+  - `activity_main.xml` (pour l'interface principale)
 
 ## Installation
 
 1. Cloner ce dépôt :
    ```bash
-   git clone <URL_DU_REPO>
+   git clone <https://github.com/Salma-CHAJARI/Exercice1TP1.git>
+2. Ouvrez le projet dans *Android Studio*.
+3. Compilez et lancez l'application sur un émulateur ou un appareil Android.
+## *Exécution*
+1. Cliquer sur le button *"Toast"*.
+2. Cliquer sur le button *"AlertDialog"* puis soit sur *"cancel"* ou *"continue"*.
+3. Cliquer sur le button *"Click me to count"*.
+   
+## *Auteur*
+
+Développé par *CHAJARI Salma* dans le cadre d'un exercice de développement d'applications Android.
